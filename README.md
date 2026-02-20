@@ -3,7 +3,7 @@
 **Author:** SeesAll\
 **License:** GNU General Public License v3.0
 
-HandcuffLimiter is a Rust uMod plugin designed to prevent restraint
+HandcuffLimiter is a Rust plugin designed to prevent restraint
 abuse by enforcing a maximum restraint duration.\
 If a player remains restrained too long, the plugin can warn, remove
 restraints, and safely teleport the victim to Outpost or Bandit Camp 
